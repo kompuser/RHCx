@@ -1,5 +1,5 @@
 # RHCx
-A React Native, Expo driven project for Android then iOS
+A React Native, Expo driven project for Android then iOS. RHCx stands for RAL, Hexadecimal, CMYK. 
 
 ## Key functions
 Retrieves the RAL Classic swatches translated in 6 languages
@@ -10,6 +10,6 @@ Offers to share selected RAL swatches via clipboard, Email or SMS using the nati
 ## TODO
 Add Camera Capture + ImageData from Canvas with Pixi.js to perform pixel comparison with RAL swatches
 
-Not affiliated with RAL gemeinnützige GmbH.
+Not affiliated with RAL gemeinnützige GmbH nor Pantone LLC.
 
 This work is a proof of concept with educational purposes only.
